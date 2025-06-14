@@ -30,12 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // UserControl
+            // UserActions
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.HotPink;
-            this.Name = "UserControl";
+            this.Name = "UserActions";
+            this.Size = new System.Drawing.Size(1112, 588);
             this.ResumeLayout(false);
 
         }

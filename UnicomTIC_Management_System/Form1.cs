@@ -35,7 +35,7 @@ namespace UnicomTIC_Management_System
         private void formMain_Paint(object sender, PaintEventArgs e)
         {
 
-            Rectangle rect_header = new Rectangle(1, 1, 881, 125); // position and size  x,y,width,height
+            Rectangle rect_header = new Rectangle(1, 1, 1363, 125); // position and size  x,y,width,height
             int radius_header = 10; // corner radius
 
             DrawRectangle.DrawRoundedRectangle(
@@ -47,7 +47,7 @@ namespace UnicomTIC_Management_System
                                 // border thickness
             );
 
-            Rectangle rect = new Rectangle(150, 250, 600, 370); // position and size  x,y,width,height
+            Rectangle rect = new Rectangle(360, 250, 600, 370); // position and size  x,y,width,height
             int radius = 25; // corner radius
 
             

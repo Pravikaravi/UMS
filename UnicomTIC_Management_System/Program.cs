@@ -15,8 +15,9 @@ namespace UnicomTIC_Management_System
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //Application.Run(new formMain()); // Run main form first
-            Application.Run(new AdminPanel()); // Run main form first
+            Application.Run(new formMain()); // Run main form first
+            //Application.Run(new AdminPanel()); // Run main form first
+         
         }
     }
 }

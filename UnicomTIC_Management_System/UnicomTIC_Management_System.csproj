@@ -52,11 +52,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\adminController.cs" />
     <Compile Include="Controllers\assignmentController.cs" />
     <Compile Include="Controllers\courseController.cs" />
     <Compile Include="Controllers\examController.cs" />
+    <Compile Include="Controllers\lecturerController.cs" />
     <Compile Include="Controllers\marksController.cs" />
     <Compile Include="Controllers\roomController.cs" />
+    <Compile Include="Controllers\staffController.cs" />
     <Compile Include="Controllers\studentController.cs" />
     <Compile Include="Controllers\subjectController.cs" />
     <Compile Include="Controllers\timetableController.cs" />
@@ -69,11 +72,14 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\Assignment.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Exam.cs" />
+    <Compile Include="Models\Lecturer.cs" />
     <Compile Include="Models\Marks.cs" />
     <Compile Include="Models\Room.cs" />
+    <Compile Include="Models\Staff.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\Subject.cs" />
     <Compile Include="Models\Timatable.cs" />
@@ -212,14 +218,50 @@
     <EmbeddedResource Include="Views\AdminPanel.resx">
       <DependentUpon>AdminPanel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddCourseAction.resx">
+      <DependentUpon>AddCourseAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddExamAction.resx">
+      <DependentUpon>AddExamAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddMarksAction.resx">
+      <DependentUpon>AddMarksAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddRoomAction.resx">
+      <DependentUpon>AddRoomAction.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\DashboardFiles\AddStudentAction.resx">
       <DependentUpon>AddStudentAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddSubjectAction.resx">
+      <DependentUpon>AddSubjectAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\AddUserAction.resx">
+      <DependentUpon>AddUserAction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\CourseActions.resx">
+      <DependentUpon>CourseActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\ExamActions.resx">
+      <DependentUpon>ExamActions.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\DashboardFiles\ManageRequestsActions.resx">
       <DependentUpon>ManageRequestsActions.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\MarksActions.resx">
+      <DependentUpon>MarksActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\RoomActions.resx">
+      <DependentUpon>RoomActions.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\DashboardFiles\StudentActions.resx">
       <DependentUpon>StudentActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\SubjectActions.resx">
+      <DependentUpon>SubjectActions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\DashboardFiles\TimetableActions.resx">
+      <DependentUpon>TimetableActions.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\DashboardFiles\UserActions.resx">
       <DependentUpon>UserActions.cs</DependentUpon>

@@ -57,7 +57,7 @@
             this.dgvStudents.DefaultCellStyle = dataGridViewCellStyle2;
             this.dgvStudents.Location = new System.Drawing.Point(3, 3);
             this.dgvStudents.Name = "dgvStudents";
-            this.dgvStudents.Size = new System.Drawing.Size(1000, 602);
+            this.dgvStudents.Size = new System.Drawing.Size(1112, 588);
             this.dgvStudents.TabIndex = 0;
             this.dgvStudents.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvStudents_CellContentClick);
             // 

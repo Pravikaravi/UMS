@@ -18,3 +18,15 @@ C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_Syste
 C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.exe
 C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.pdb
 C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.exe.config
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddUserAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddCourseAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddExamAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddMarksAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddRoomAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.AddSubjectAction.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.CourseActions.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.ExamActions.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.MarksActions.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.RoomActions.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.SubjectActions.resources
+C:\Users\Admin\Desktop\C#\UnicomTIC_Management_System\UnicomTIC_Management_System\obj\Debug\UnicomTIC_Management_System.Views.DashboardFiles.TimetableActions.resources

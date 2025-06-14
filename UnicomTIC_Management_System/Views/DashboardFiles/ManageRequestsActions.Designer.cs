@@ -51,7 +51,7 @@
             this.dgvSignupRequests.Name = "dgvSignupRequests";
             this.dgvSignupRequests.RowHeadersVisible = false;
             this.dgvSignupRequests.RowTemplate.Height = 40;
-            this.dgvSignupRequests.Size = new System.Drawing.Size(869, 694);
+            this.dgvSignupRequests.Size = new System.Drawing.Size(1112, 588);
             this.dgvSignupRequests.TabIndex = 0;
             this.dgvSignupRequests.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 

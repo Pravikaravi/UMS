@@ -46,7 +46,40 @@ namespace UnicomTIC_Management_System.Repositories
                 cmd = new SQLiteCommand(createSignupRequestsQuery, conn);
                 cmd.ExecuteNonQuery();
 
-         
+                /// Create Staff table
+                string createStaffTable = @"
+                    CREATE TABLE IF NOT EXISTS Staff (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        Name TEXT NOT NULL,
+                        Phone_Number TEXT NOT NULL,
+                        Email TEXT NOT NULL
+                    );";
+                cmd = new SQLiteCommand(createStaffTable, conn);
+                cmd.ExecuteNonQuery();
+
+                // Create Admin table
+                string createAdminTable = @"
+                    CREATE TABLE IF NOT EXISTS Admin (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        Name TEXT NOT NULL,
+                        Phone_Number TEXT NOT NULL,
+                        Email TEXT NOT NULL
+                    );";
+                cmd = new SQLiteCommand(createAdminTable, conn);
+                cmd.ExecuteNonQuery();
+
+                // Create Lecturer table
+                string createLecturerTable = @"
+                    CREATE TABLE IF NOT EXISTS Lecturer (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        Name TEXT NOT NULL,
+                        Phone_Number TEXT NOT NULL,
+                        Email TEXT NOT NULL
+                    );";
+                cmd = new SQLiteCommand(createLecturerTable, conn);
+                cmd.ExecuteNonQuery();
+
+
 
                 // 🆕 Check if Admin exists
                 string checkAdminQuery = "SELECT COUNT(*) FROM Users WHERE Role = 'Admin'";
