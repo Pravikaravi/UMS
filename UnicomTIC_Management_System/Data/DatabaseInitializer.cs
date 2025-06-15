@@ -84,7 +84,7 @@ namespace UnicomTIC_Management_System.Repositories
                 string createCourseTable = @"
                     CREATE TABLE IF NOT EXISTS Course (
                         Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        Name TEXT NOT NULL,
+                        CourseName TEXT NOT NULL,
                         Duration TEXT NOT NULL,
                         Description TEXT NOT NULL
                     );";

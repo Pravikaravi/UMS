@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "Z:\\C#\\Myyyy\\UMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\views\\dashboardfiles\\addcourseaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\views\\dashboardfiles\\addcourseaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\views\\dashboardfiles\\addcourseaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\views\\dashboardfiles\\addcourseaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\views\\dashboardfiles\\addstudentaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\views\\dashboardfiles\\addstudentaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|z:\\c#\\myyyy\\ums\\unicomtic_management_system\\views\\dashboardfiles\\addstudentaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEE53AE3-765F-4748-A058-7395F8F59F47}|UnicomTIC_Management_System\\UnicomTIC_Management_System.csproj|solutionrelative:unicomtic_management_system\\views\\dashboardfiles\\addstudentaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatabaseInitializer.cs",
               "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Data\\DatabaseInitializer.cs",
               "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Data\\DatabaseInitializer.cs",
               "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Data\\DatabaseInitializer.cs",
               "RelativeToolTip": "UnicomTIC_Management_System\\Data\\DatabaseInitializer.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAiwFQAAAA1AAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv3EAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:50:40.056Z",
+              "WhenOpened": "2025-06-15T11:02:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Models\\Course.cs",
+              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Models\\Course.cs",
+              "RelativeToolTip": "UnicomTIC_Management_System\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:02:31.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddCourseAction.cs",
-              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "RelativeToolTip": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvxwAAAA0AAAA",
+              "Title": "userController.cs",
+              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Controllers\\userController.cs",
+              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Controllers\\userController.cs",
+              "RelativeToolTip": "UnicomTIC_Management_System\\Controllers\\userController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:50:07.474Z",
+              "WhenOpened": "2025-06-15T10:59:50.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddStudentAction.cs",
-              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "RelativeToolTip": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAqwBkAAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "courseController.cs",
+              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Controllers\\courseController.cs",
+              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Controllers\\courseController.cs",
+              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Controllers\\courseController.cs",
+              "RelativeToolTip": "UnicomTIC_Management_System\\Controllers\\courseController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:49:42.875Z",
+              "WhenOpened": "2025-06-15T10:42:41.542Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddStudentAction.cs [Design]",
-              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs",
-              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs [Design]",
-              "RelativeToolTip": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddStudentAction.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T09:49:40.914Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddCourseAction.cs [Design]",
-              "DocumentMoniker": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "RelativeDocumentMoniker": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs",
-              "ToolTip": "Z:\\C#\\Myyyy\\UMS\\UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs [Design]",
-              "RelativeToolTip": "UnicomTIC_Management_System\\Views\\DashboardFiles\\AddCourseAction.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T13:13:39.446Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
