@@ -6,7 +6,7 @@ using UnicomTIC_Management_System.Repositories;
 
 namespace UnicomTIC_Management_System.Views.DashboardFiles
 {
-    public partial class AddUserAction : UserActions
+    public partial class AddUserAction : UserControl
     {
         public AddUserAction()
         {

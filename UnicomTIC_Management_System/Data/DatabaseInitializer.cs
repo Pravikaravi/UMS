@@ -20,6 +20,7 @@ namespace UnicomTIC_Management_System.Repositories
                 SQLiteCommand cmd = new SQLiteCommand(createUserTableQuery, conn);
                 cmd.ExecuteNonQuery();
 
+
                 // Create Students table
                 string createStudentTableQuery = @"
                     CREATE TABLE IF NOT EXISTS Students (
@@ -77,6 +78,17 @@ namespace UnicomTIC_Management_System.Repositories
                         Email TEXT NOT NULL
                     );";
                 cmd = new SQLiteCommand(createLecturerTable, conn);
+                cmd.ExecuteNonQuery();
+
+                // Create Course table
+                string createCourseTable = @"
+                    CREATE TABLE IF NOT EXISTS Course (
+                        Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        Name TEXT NOT NULL,
+                        Duration TEXT NOT NULL,
+                        Description TEXT NOT NULL
+                    );";
+                cmd = new SQLiteCommand(createCourseTable, conn);
                 cmd.ExecuteNonQuery();
 
 

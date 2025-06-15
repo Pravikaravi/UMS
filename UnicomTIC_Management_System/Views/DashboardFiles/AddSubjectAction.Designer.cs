@@ -36,6 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "AddSubjectAction";
             this.Size = new System.Drawing.Size(1112, 588);
+            this.Load += new System.EventHandler(this.AddSubjectAction_Load);
             this.ResumeLayout(false);
 
         }

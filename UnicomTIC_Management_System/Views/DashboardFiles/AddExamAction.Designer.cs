@@ -36,6 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "AddExamAction";
             this.Size = new System.Drawing.Size(1112, 588);
+            this.Load += new System.EventHandler(this.AddExamAction_Load);
             this.ResumeLayout(false);
 
         }

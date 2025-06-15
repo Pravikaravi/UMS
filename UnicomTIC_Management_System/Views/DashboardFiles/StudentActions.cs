@@ -19,7 +19,7 @@ namespace UnicomTIC_Management_System.Views
             controller = new studentController();
             this.Load += StudentActions_Load;
             dgvStudents.SelectionChanged += DgvStudents_SelectionChanged;
-            dgvStudents.CellClick += DgvStudents_CellClick; // ✅ Added
+            dgvStudents.CellClick += DgvStudents_CellClick; 
         }
 
         private void StudentActions_Load(object sender, EventArgs e)

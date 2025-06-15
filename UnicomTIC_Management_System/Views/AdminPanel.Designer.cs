@@ -62,7 +62,7 @@
             this.panelRight.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelRight.Location = new System.Drawing.Point(257, 58);
             this.panelRight.Name = "panelRight";
-            this.panelRight.Size = new System.Drawing.Size(1000, 602);
+            this.panelRight.Size = new System.Drawing.Size(590, 700);
             this.panelRight.TabIndex = 1;
             this.panelRight.Paint += new System.Windows.Forms.PaintEventHandler(this.panelRight_Paint);
             // 
@@ -79,13 +79,13 @@
             // lblUser_name
             // 
             this.lblUser_name.AutoSize = true;
-            this.lblUser_name.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUser_name.ForeColor = System.Drawing.Color.Brown;
-            this.lblUser_name.Location = new System.Drawing.Point(668, 22);
+            this.lblUser_name.Font = new System.Drawing.Font("Microsoft YaHei", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUser_name.ForeColor = System.Drawing.Color.DimGray;
+            this.lblUser_name.Location = new System.Drawing.Point(655, 17);
             this.lblUser_name.Name = "lblUser_name";
-            this.lblUser_name.Size = new System.Drawing.Size(59, 22);
+            this.lblUser_name.Size = new System.Drawing.Size(109, 26);
             this.lblUser_name.TabIndex = 3;
-            this.lblUser_name.Text = "label1";
+            this.lblUser_name.Text = "Admin_01";
             this.lblUser_name.Click += new System.EventHandler(this.label1_Click);
             // 
             // AdminPanel
@@ -102,7 +102,6 @@
             this.Name = "AdminPanel";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AdminPanel";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.AdminPanel_Load);
             this.panelLeft.ResumeLayout(false);
             this.ResumeLayout(false);

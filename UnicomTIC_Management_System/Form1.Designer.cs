@@ -57,7 +57,7 @@
             this.lblTitle.BackColor = System.Drawing.Color.Black;
             this.lblTitle.Font = new System.Drawing.Font("Calibri", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.White;
-            this.lblTitle.Location = new System.Drawing.Point(373, 46);
+            this.lblTitle.Location = new System.Drawing.Point(186, 54);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(608, 36);
             this.lblTitle.TabIndex = 0;
@@ -69,7 +69,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Black;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(260, 29);
+            this.pictureBox1.Location = new System.Drawing.Point(73, 37);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(94, 70);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -83,7 +83,7 @@
             this.lblSubTitle.BackColor = System.Drawing.Color.Black;
             this.lblSubTitle.Font = new System.Drawing.Font("Yu Gothic UI", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSubTitle.ForeColor = System.Drawing.SystemColors.ScrollBar;
-            this.lblSubTitle.Location = new System.Drawing.Point(570, 90);
+            this.lblSubTitle.Location = new System.Drawing.Point(950, 98);
             this.lblSubTitle.Name = "lblSubTitle";
             this.lblSubTitle.Size = new System.Drawing.Size(218, 20);
             this.lblSubTitle.TabIndex = 2;
@@ -93,7 +93,7 @@
             // 
             this.lblSignin.AutoSize = true;
             this.lblSignin.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSignin.Location = new System.Drawing.Point(298, 175);
+            this.lblSignin.Location = new System.Drawing.Point(118, 225);
             this.lblSignin.Name = "lblSignin";
             this.lblSignin.Size = new System.Drawing.Size(227, 21);
             this.lblSignin.TabIndex = 3;
@@ -106,7 +106,7 @@
             this.btnLogin.BackColor = System.Drawing.Color.White;
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnLogin.Location = new System.Drawing.Point(621, 177);
+            this.btnLogin.Location = new System.Drawing.Point(1008, 227);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(116, 28);
             this.btnLogin.TabIndex = 4;
@@ -119,7 +119,7 @@
             this.lblSignup.AutoSize = true;
             this.lblSignup.BackColor = System.Drawing.Color.White;
             this.lblSignup.Font = new System.Drawing.Font("Microsoft YaHei", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSignup.Location = new System.Drawing.Point(518, 271);
+            this.lblSignup.Location = new System.Drawing.Point(338, 321);
             this.lblSignup.Name = "lblSignup";
             this.lblSignup.Size = new System.Drawing.Size(331, 26);
             this.lblSignup.TabIndex = 5;
@@ -131,7 +131,7 @@
             this.lblName.AutoSize = true;
             this.lblName.BackColor = System.Drawing.Color.White;
             this.lblName.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(428, 324);
+            this.lblName.Location = new System.Drawing.Point(248, 374);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(53, 19);
             this.lblName.TabIndex = 6;
@@ -142,7 +142,7 @@
             this.lblEmail.AutoSize = true;
             this.lblEmail.BackColor = System.Drawing.Color.White;
             this.lblEmail.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmail.Location = new System.Drawing.Point(428, 447);
+            this.lblEmail.Location = new System.Drawing.Point(248, 497);
             this.lblEmail.Name = "lblEmail";
             this.lblEmail.Size = new System.Drawing.Size(52, 19);
             this.lblEmail.TabIndex = 7;
@@ -153,7 +153,7 @@
             this.lblPhonenumber.AutoSize = true;
             this.lblPhonenumber.BackColor = System.Drawing.Color.White;
             this.lblPhonenumber.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPhonenumber.Location = new System.Drawing.Point(428, 407);
+            this.lblPhonenumber.Location = new System.Drawing.Point(248, 457);
             this.lblPhonenumber.Name = "lblPhonenumber";
             this.lblPhonenumber.Size = new System.Drawing.Size(107, 19);
             this.lblPhonenumber.TabIndex = 8;
@@ -164,7 +164,7 @@
             this.lblUTNumber.AutoSize = true;
             this.lblUTNumber.BackColor = System.Drawing.Color.White;
             this.lblUTNumber.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUTNumber.Location = new System.Drawing.Point(428, 367);
+            this.lblUTNumber.Location = new System.Drawing.Point(248, 417);
             this.lblUTNumber.Name = "lblUTNumber";
             this.lblUTNumber.Size = new System.Drawing.Size(88, 19);
             this.lblUTNumber.TabIndex = 9;
@@ -175,7 +175,7 @@
             this.lblPassword.AutoSize = true;
             this.lblPassword.BackColor = System.Drawing.Color.White;
             this.lblPassword.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPassword.Location = new System.Drawing.Point(428, 485);
+            this.lblPassword.Location = new System.Drawing.Point(248, 535);
             this.lblPassword.Name = "lblPassword";
             this.lblPassword.Size = new System.Drawing.Size(74, 19);
             this.lblPassword.TabIndex = 10;
@@ -186,7 +186,7 @@
             this.lblConfirmpassword.AutoSize = true;
             this.lblConfirmpassword.BackColor = System.Drawing.Color.White;
             this.lblConfirmpassword.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblConfirmpassword.Location = new System.Drawing.Point(428, 523);
+            this.lblConfirmpassword.Location = new System.Drawing.Point(248, 573);
             this.lblConfirmpassword.Name = "lblConfirmpassword";
             this.lblConfirmpassword.Size = new System.Drawing.Size(128, 19);
             this.lblConfirmpassword.TabIndex = 11;
@@ -195,7 +195,7 @@
             // txtName
             // 
             this.txtName.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtName.Location = new System.Drawing.Point(572, 323);
+            this.txtName.Location = new System.Drawing.Point(959, 373);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(319, 25);
             this.txtName.TabIndex = 12;
@@ -203,7 +203,7 @@
             // txtUT_Number
             // 
             this.txtUT_Number.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtUT_Number.Location = new System.Drawing.Point(572, 364);
+            this.txtUT_Number.Location = new System.Drawing.Point(959, 414);
             this.txtUT_Number.Name = "txtUT_Number";
             this.txtUT_Number.Size = new System.Drawing.Size(319, 25);
             this.txtUT_Number.TabIndex = 13;
@@ -211,7 +211,7 @@
             // txtPhone_Number
             // 
             this.txtPhone_Number.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPhone_Number.Location = new System.Drawing.Point(572, 404);
+            this.txtPhone_Number.Location = new System.Drawing.Point(959, 454);
             this.txtPhone_Number.Name = "txtPhone_Number";
             this.txtPhone_Number.Size = new System.Drawing.Size(319, 25);
             this.txtPhone_Number.TabIndex = 14;
@@ -219,7 +219,7 @@
             // txtEmail
             // 
             this.txtEmail.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEmail.Location = new System.Drawing.Point(572, 444);
+            this.txtEmail.Location = new System.Drawing.Point(959, 494);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(319, 25);
             this.txtEmail.TabIndex = 15;
@@ -227,7 +227,7 @@
             // txtPassword
             // 
             this.txtPassword.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtPassword.Location = new System.Drawing.Point(572, 482);
+            this.txtPassword.Location = new System.Drawing.Point(959, 532);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(319, 25);
             this.txtPassword.TabIndex = 16;
@@ -235,7 +235,7 @@
             // txtConfirmpassword
             // 
             this.txtConfirmpassword.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtConfirmpassword.Location = new System.Drawing.Point(572, 520);
+            this.txtConfirmpassword.Location = new System.Drawing.Point(959, 570);
             this.txtConfirmpassword.Name = "txtConfirmpassword";
             this.txtConfirmpassword.Size = new System.Drawing.Size(319, 25);
             this.txtConfirmpassword.TabIndex = 17;
@@ -246,7 +246,7 @@
             this.btnSignup.BackColor = System.Drawing.Color.Black;
             this.btnSignup.Font = new System.Drawing.Font("Microsoft YaHei", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSignup.ForeColor = System.Drawing.Color.White;
-            this.btnSignup.Location = new System.Drawing.Point(590, 569);
+            this.btnSignup.Location = new System.Drawing.Point(977, 619);
             this.btnSignup.Name = "btnSignup";
             this.btnSignup.Size = new System.Drawing.Size(175, 39);
             this.btnSignup.TabIndex = 18;
@@ -281,7 +281,6 @@
             this.MinimizeBox = false;
             this.Name = "formMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.formMain_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

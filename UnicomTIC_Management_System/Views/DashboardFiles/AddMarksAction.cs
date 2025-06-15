@@ -16,5 +16,10 @@ namespace UnicomTIC_Management_System.Views.DashboardFiles
         {
             InitializeComponent();
         }
+
+        private void AddMarksAction_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

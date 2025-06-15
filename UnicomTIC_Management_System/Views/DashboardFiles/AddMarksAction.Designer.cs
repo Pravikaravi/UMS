@@ -36,6 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "AddMarksAction";
             this.Size = new System.Drawing.Size(1112, 588);
+            this.Load += new System.EventHandler(this.AddMarksAction_Load);
             this.ResumeLayout(false);
 
         }
